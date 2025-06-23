@@ -1,0 +1,5 @@
+healthyaging = readtable('Alzheimer_s_Disease_and_Healthy_Aging_Data.csv')
+suiciderate = readtable('Death_rates_for_suicide__by_sex__race__Hispanic_origin__and_age__United_States.csv')
+drugoverdose = readtable('Drug_overdose_death_rates__by_drug_type__sex__age__race__and_Hispanic_origin__United_States.csv')
+anxdep_indicators = readtable('Indicators_of_Anxiety_or_Depression_Based_on_Reported_Frequency_of_Symptoms_During_Last_7_Days.csv')
+walkability = readtable('EPA_SmartLocationDatabase_V3_Jan_2021_Final.csv')
