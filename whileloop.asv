@@ -1,0 +1,18 @@
+clear, clc;
+
+%i = 0
+%N = 0
+
+%while i == N
+    %N = N + i
+    %i = i + 1
+%end
+    
+
+%PAT = digitsPattern(4);
+
+n = 10;
+
+while sumN < 1000
+    sumN = sum(1:n)
+end

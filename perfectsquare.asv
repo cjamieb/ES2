@@ -1,0 +1,12 @@
+clear, clc;
+
+a = 64;
+
+for 
+    disp(a(i))
+
+if sqrt(a) == round(sqrt(a))
+    disp('Square')
+else
+    disp('Not a square')
+end
